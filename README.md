@@ -1,47 +1,69 @@
-Hi 👋, I'm Mann Shah!
-🌱 I’m currently learning Distributed Systems.
+<h1 align="center">Hi 👋, I'm Mann Shah</h1> 
 
-📫 How to reach me: mannshah1702@gmail.com
+<h3 align="center">MSCS @ Seattle University | Software Development Engineer</h3>
+
+<p align="left">
+<!-- Replaced with a placeholder for now, you can find a trophy generator online! -->
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DMann-1702%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue" alt="GitHub Profile Trophy" />
+</p>
+
+
+
+🌱 I’m currently learning Distributed Systems to build scalable applications
+
+📫 How to reach me mannshah1702@gmail.com
+
+📄 Know about my experiences View Resume/Portfolio
 
 ⚡ Fun fact: I love to build things that makes life of users easier :)
 
-#️⃣ Connect with Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- Using your GitHub username for the profile links -->
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mannshah1702/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mann Shah LinkedIn" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/mann1702/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<!-- Row 1: Core Languages -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+
+<!-- Row 2: Cloud, DevOps, and DBs -->
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+
+<!-- Row 3: AI/ML and Tools -->
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://tableau.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+</p>
+
+<p><img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DMann-1702%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact" alt="Mann-1702" /></p>
+
 <div align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mannshah1702/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/></a>
-<a href="https://www.google.com/search?q=https://github.com/Mann-1702" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge"/></a>
-<!-- Placeholder for LeetCode. Add your LeetCode URL here if you have one -->
-<a href="[Your LeetCode Profile URL]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" alt="LeetCode Badge"/></a>
-<a href="mailto:mannshah1702@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail Badge"/></a>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DMann-1702%26style%3Dfor-the-badge%26color%3Dblue" alt="Profile Views"/>
 </div>
 
-🛠️ Languages and Tools
-This represents my core professional stack across Cloud, Full-Stack, and AI/ML.
-
 <div align="center">
-<!-- ROW 1: CORE LANGUAGES & CLOUD PLATFORMS -->
-<a href="https://www.python.org/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python Badge"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java Badge"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite" alt="AWS Badge"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GCP-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecloud%26logoColor%3Dwhite" alt="GCP Badge"/></a>
-
-<!-- ROW 2: FRAMEWORKS & DEVOPS -->
-
-<a href="https://react.dev/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React Badge"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspringboot%26logoColor%3Dwhite" alt="Spring Boot Badge"/></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes Badge"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge"/></a>
-
-<!-- ROW 3: DATABASES & DATA/ML -->
-
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-for-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL Badge"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB Badge"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/></a>
-<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-Learn Badge"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman Badge"/></a>
-
+<i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mannshah1702&style=for-the-badge&color=blue" alt="Profile Views"/>
