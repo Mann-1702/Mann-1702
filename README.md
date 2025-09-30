@@ -1,13 +1,11 @@
-## Hi 👋, I'm Mann Shah!
-<br>
-## MSCS @ Seattle University | Software Development Engineer
+Hi 👋, I'm Mann Shah!
+🌱 I’m currently learning Distributed Systems.
 
-- 🌱 I’m currently learning Distributed Systems
-- 📫 How to reach me: mannshah1702@gmail.com
-- ⚡ Fun fact: I love to build things that makes life of users easier :)
+📫 How to reach me: mannshah1702@gmail.com
 
-# Connect with me
+⚡ Fun fact: I love to build things that makes life of users easier :)
 
+#️⃣ Connect with Me
 <div align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/mannshah1702/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/></a>
 <a href="https://www.google.com/search?q=https://github.com/Mann-1702" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge"/></a>
@@ -47,8 +45,3 @@ This represents my core professional stack across Cloud, Full-Stack, and AI/ML.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mannshah1702&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
-
-<div align="center">
-<i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
